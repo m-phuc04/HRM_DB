@@ -49,3 +49,7 @@
     - Kết quả cuối cùng được chốt và lưu vào bảng `Payroll`.
 
 ---
+
+**ERD**
+
+![alt text](image.png)
